@@ -1,1 +1,1 @@
-# hacker_rank
+# 1. HackerRank Trading System Challenge
